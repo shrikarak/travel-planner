@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025, Shrikara Kaudambady
+ * All rights reserved.
+ */
 
 const { Sequelize } = require('sequelize');
 require('dotenv').config();

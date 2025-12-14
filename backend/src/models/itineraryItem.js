@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025, Shrikara Kaudambady
+ * All rights reserved.
+ */
 
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/database');

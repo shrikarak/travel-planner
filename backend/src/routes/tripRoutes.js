@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025, Shrikara Kaudambady
+ * All rights reserved.
+ */
 
 const express = require('express');
 const router = express.Router();

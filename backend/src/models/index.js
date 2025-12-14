@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025, Shrikara Kaudambady
+ * All rights reserved.
+ */
 
 const sequelize = require('../config/database');
 const User = require('./user');

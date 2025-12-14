@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2025, Shrikara Kaudambady
+ * All rights reserved.
+ */
 
 const { Trip, ItineraryItem, User } = require('../models');
 
